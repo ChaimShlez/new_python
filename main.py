@@ -7,4 +7,4 @@ for x in range(1,num+1):
     print(" " +str(x) * x)
 
 def f():
-    return True
+    return False
